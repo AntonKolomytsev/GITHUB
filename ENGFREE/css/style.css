@@ -1,0 +1,76 @@
+/*Wrapper all site don't include menu*/
+.wrapper_site{
+    margin-left: 5%;
+    margin-right: 5%;
+}
+/*Button for search*/
+.btn-outline-success{
+   background-color: white; 
+}
+/*Font for slider*/
+.carousel-inner h5,h3{
+    color: black;
+    text-transform: uppercase;
+}
+.carousel-inner p{
+    display: block;
+    color: black;
+    justify-content: center;
+}
+/*Margin for carousel*/
+.carousel-inner{
+    margin-top: 1%;
+}
+/*Color for nav*/
+.bg-primary{
+    background-color:black !important;
+}
+/*Color for button*/
+.btn-primary{
+    background-color:#283c6f !important;
+}
+/*Color for footer*/
+.footer{
+    margin-top: 1%;
+    background-color: black;
+    color: white;
+}
+.footer a{
+    color: white !important;
+}
+.footer li{
+    color: white;
+}
+/*Block coleguaes*/
+.coleguaes .weare{
+    margin-top: 1%;
+    width: 100%;
+    height: 10%;
+    background-color: #283c6f;
+    color: white;
+    text-transform: uppercase;
+}
+.coleguaes .weare h5{
+    text-align: center;
+}
+.card-body{
+    color: black;
+}
+button{
+    margin: 5px;
+}
+.fa-user{
+
+    color: whitesmoke;
+    margin: 10px;
+}
+a.signup{
+    margin-top: 10px;
+    text-align: center;
+    justify-items: center;
+    align-items: center;
+    color: aqua;
+}
+.fa-twitter{
+    color:whitesmoke;
+}

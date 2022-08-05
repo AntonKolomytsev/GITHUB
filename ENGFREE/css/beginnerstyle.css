@@ -1,0 +1,64 @@
+.navbar{
+    background-color: darkblue !important;
+    
+}
+a.nav-link{
+    color: whitesmoke !important;
+}
+.navbar-nav{
+    color: whitesmoke;
+}
+.dropdown-item.active, .dropdown-item:active{
+    background-color: darkblue;
+}
+a.navbar-brand:focus, .navbar-brand{
+    color: whitesmoke;
+}
+.nav-item{
+    color: whitesmoke;
+}
+.btn-outline-light{
+    background-color: whitesmoke;
+    color: black;
+}
+.form-control{
+    background-color: whitesmoke;
+}
+.fa-user{
+
+    color: whitesmoke;
+    margin: 10px;
+}
+a.signup{
+    margin-top: 10px;
+    text-align: center;
+    justify-items: center;
+    align-items: center;
+    color: aqua;
+}
+.btn-primary{
+    background-color:darkblue;    
+    border:none;
+    --bs-btn-bg:darkblue;
+    --bs-btn-hover-bg:darkblue;
+    --bs-btn-border-color:none;
+    --bs-btn-hover-border-color:none;
+    --bs-btn-active-bg:none;
+    --bs-btn-active-border-color:none;
+    --bs-btn-disabled-bg:none;
+    --bs-btn-disabled-border-color:none;
+    margin-top: 2vh;
+    border: none;
+}
+/*Color for footer*/
+.footer{
+    margin-top: 1%;
+    background-color: black;
+    color: white;
+}
+.footer a{
+    color: white !important;
+}
+.footer li{
+    color: white;
+}
