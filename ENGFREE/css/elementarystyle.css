@@ -127,3 +127,10 @@ a.signup{
 element.style{
     width: 98%;
 }
+.units{
+    display: inline-block;
+    flex-direction: row;
+}
+.col-md-3{
+    display: inline-block;
+}
